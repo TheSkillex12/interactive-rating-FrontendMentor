@@ -41,4 +41,4 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 My greatest teacher, very well explained.
 Thanks to him I am learning little by little and advancing more my knowledge!
-Channel YT: [CodingTube](https://www.youtube.com/c/CodingTube)
+- Channel YT: [CodingTube](https://www.youtube.com/c/CodingTube)
