@@ -34,7 +34,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Author
 
-- LinkedIn - [Santiago Toara](.com/in/santiago-toara-7b73a71b7/)
+- LinkedIn - [Santiago Toara](https://www.linkedin.com/in/santiago-toara-7b73a71b7/)
 - Frontend Mentor - [@TheSkillex12](https://www.frontendmentor.io/profile/TheSkillex12)
 
 ## Acknowledgments
